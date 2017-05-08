@@ -57,7 +57,7 @@ This script installs libcec and it dependencies.Further more this script symlink
 
 Script is run as the `pi` user with the following command. Normal runtime for this script is about 10 minutes.
 ```
-sudo hassbian-config install ibcec
+sudo hassbian-config install libcec
 ```
 After this script has been run, add CEC to your `configuration.yaml` file as usual.
 
